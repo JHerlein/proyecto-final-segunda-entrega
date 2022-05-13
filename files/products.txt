@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2022-04-08T20:32:03.107Z",
+    "nombre": "Computadora",
+    "descripcion": "Lenovo",
+    "codigo": "PC",
+    "foto": "foto de la pc",
+    "precio": 10000,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "timestamp": "2022-04-08T20:32:03.107Z",
+    "nombre": "Cuchillo",
+    "descripcion": "Cuchillo",
+    "codigo": "CU",
+    "foto": "foto",
+    "precio": 150,
+    "stock": 2
+  },
+  {
+    "nombre": "Cuchillo",
+    "descripcion": "Cuchillo",
+    "codigo": "CU",
+    "foto": "foto",
+    "precio": 150,
+    "stock": 2,
+    "id": 3,
+    "timestamp": "2022-04-08T20:32:03.107Z"
+  },
+  {
+    "nombre": "Cuchillo",
+    "descripcion": "Cuchillo",
+    "codigo": "CU",
+    "foto": "foto",
+    "precio": 150,
+    "stock": 2,
+    "id": 4,
+    "timestamp": "2022-04-08T20:32:56.987Z"
+  },
+  {
+    "nombre": "Cuchillo",
+    "descripcion": "Cuchillo",
+    "codigo": "CU",
+    "foto": "foto",
+    "precio": 150,
+    "stock": 2,
+    "id": 5,
+    "timestamp": "2022-04-08T20:33:51.141Z"
+  }
+]

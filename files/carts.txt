@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "timestamp": 123,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 123,
+        "nombre": "Plato",
+        "descripcion": "Un plato",
+        "codigo": "PL",
+        "foto": "foto",
+        "precio": 150,
+        "stock": 2
+      },
+      {
+        "id": 1,
+        "timestamp": 123,
+        "nombre": "Plato",
+        "descripcion": "Un plato",
+        "codigo": "PL",
+        "foto": "foto",
+        "precio": 150,
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": 123,
+    "productos": [
+      {
+        "id": 2,
+        "timestamp": 123,
+        "nombre": "Cuchillo",
+        "descripcion": "Cuchillo",
+        "codigo": "CU",
+        "foto": "foto",
+        "precio": 150,
+        "stock": 2
+      }
+    ]
+  }
+]
